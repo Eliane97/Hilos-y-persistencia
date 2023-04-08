@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Persistence Threads and sound</string>
+    <string name="mediano">Medium</string>
+    <string name="dificil">Dificult</string>
+    <string name="facil">Easy</string>
+    <string name="elija_el_nivel">Choose the level</string>
+    <string name="ayuda">Help</string>
+    <string name="ayuda_text">
+        To play, choose the difficulty and press the "Play" button.
+        The game is to find the number shown on the screen.
+        To do this, you have to click on the buttons at the bottom of the screen.
+        If you press a button that is not correct, a point will be deducted.
+        If you press the correct button, a point will be added to you.
+        If you press the correct button, a point will be added to you.
+        If you press the correct button, a point will be added to you.
+        If you press the correct button, a point will be added to you.
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n
+        If you press the correct button, a point will be added to you.
+        If you press the correct button, a point will be added to you.
+        If you press the correct button, a point will be added to you.
+    </string>
+</resources>

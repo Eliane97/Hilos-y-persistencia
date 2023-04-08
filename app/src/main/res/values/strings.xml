@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PersistenciaHilosySonidos</string>
+
+    <string name="mediano">Mediano</string>
+    <string name="dificil">Dificil</string>
+    <string name="facil">Facil</string>
+    <string name="elija_el_nivel">Eliga el nivel</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="ayuda_text">
+        Para jugar, elige la dificultad y pulsa el botón de "Jugar".
+        El juego consiste en encontrar el número que se muestra en la pantalla.
+        Para ello, tienes que pulsar sobre los botones de la parte inferior de la pantalla.
+        Si pulsas un botón que no es el correcto, se te restará un punto.
+        Si pulsas el botón correcto, se te sumará un punto.
+        Si pulsas el botón correcto, se te sumará un punto.
+        Si pulsas el botón correcto, se te sumará un punto.
+        Si pulsas el botón correcto, se te sumará un punto.
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+        Si pulsas el botón correcto, se te sumará un punto.
+        Si pulsas el botón correcto, se te sumará un punto.
+        Si pulsas el botón correcto, se te sumará un punto.
+    </string>
+</resources>
